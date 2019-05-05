@@ -146,10 +146,10 @@ aside, img {
   box-sizing: border-box;
 }
 
-aside  {
+/*aside  {
     clear: both;
 }
-
+*/
 main {
   float: left;
   width: 85%;
